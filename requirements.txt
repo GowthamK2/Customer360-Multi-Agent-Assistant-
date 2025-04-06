@@ -1,0 +1,9 @@
+streamlit
+langchain
+ollama
+sqlite-utils
+beautifulsoup4
+requests
+pandas
+openai  # optional
+
